@@ -4,4 +4,4 @@ export const axios_config = {
         'Content-Type': 'application/json'}
     };
   
-  export const url="https://api.airtable.com/v0/appueWqqS6bw4lpMD/";
+  export const url="YOUR DATABASE URL";
